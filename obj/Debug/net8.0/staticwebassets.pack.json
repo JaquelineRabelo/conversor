@@ -1,0 +1,37 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\inte.js",
+      "PackagePath": "staticwebassets\\inte.js"
+    },
+    {
+      "Id": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\style.css",
+      "PackagePath": "staticwebassets\\style.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ConversorMoedas.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.ConversorMoedas.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.ConversorMoedas.props",
+      "PackagePath": "build\\ConversorMoedas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.ConversorMoedas.props",
+      "PackagePath": "buildMultiTargeting\\ConversorMoedas.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.ConversorMoedas.props",
+      "PackagePath": "buildTransitive\\ConversorMoedas.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

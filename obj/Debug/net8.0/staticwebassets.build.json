@@ -1,0 +1,331 @@
+{
+  "Version": 1,
+  "Hash": "CizZ8nRbSs/fDSU14yoszFNVg2++MrarbHk5Jx+t3Xc=",
+  "Source": "ConversorMoedas",
+  "BasePath": "_content/ConversorMoedas",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "ConversorMoedas\\wwwroot",
+      "Source": "ConversorMoedas",
+      "ContentRoot": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\",
+      "BasePath": "_content/ConversorMoedas",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\index.html",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "qn983x4ehv",
+      "Integrity": "5qnCh65rD68e+vnlqhMqt8mVzRKKyjPI0dOslrxUsTc=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\inte.js",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "inte#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "v0k7lpyxog",
+      "Integrity": "4QVYRFqD+0ucl1yjqJgCB69yJFjyWr4BhXQBZ57R7IY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\inte.js"
+    },
+    {
+      "Identity": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\style.css",
+      "SourceId": "ConversorMoedas",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\",
+      "BasePath": "_content/ConversorMoedas",
+      "RelativePath": "style#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "7uorfrw4te",
+      "Integrity": "gY5c1smku8ffg0KvZac2EWKDWV+04FyKNmUlnF1hHo4=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\style.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qnCh65rD68e+vnlqhMqt8mVzRKKyjPI0dOslrxUsTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qnCh65rD68e+vnlqhMqt8mVzRKKyjPI0dOslrxUsTc="
+        }
+      ]
+    },
+    {
+      "Route": "index.qn983x4ehv.html",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2558"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"5qnCh65rD68e+vnlqhMqt8mVzRKKyjPI0dOslrxUsTc=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "qn983x4ehv"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-5qnCh65rD68e+vnlqhMqt8mVzRKKyjPI0dOslrxUsTc="
+        }
+      ]
+    },
+    {
+      "Route": "inte.js",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\inte.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4QVYRFqD+0ucl1yjqJgCB69yJFjyWr4BhXQBZ57R7IY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-4QVYRFqD+0ucl1yjqJgCB69yJFjyWr4BhXQBZ57R7IY="
+        }
+      ]
+    },
+    {
+      "Route": "inte.v0k7lpyxog.js",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\inte.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2689"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"4QVYRFqD+0ucl1yjqJgCB69yJFjyWr4BhXQBZ57R7IY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "v0k7lpyxog"
+        },
+        {
+          "Name": "label",
+          "Value": "inte.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-4QVYRFqD+0ucl1yjqJgCB69yJFjyWr4BhXQBZ57R7IY="
+        }
+      ]
+    },
+    {
+      "Route": "style.7uorfrw4te.css",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gY5c1smku8ffg0KvZac2EWKDWV+04FyKNmUlnF1hHo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "7uorfrw4te"
+        },
+        {
+          "Name": "label",
+          "Value": "style.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-gY5c1smku8ffg0KvZac2EWKDWV+04FyKNmUlnF1hHo4="
+        }
+      ]
+    },
+    {
+      "Route": "style.css",
+      "AssetFile": "C:\\Users\\jorge\\Desktop\\conversor\\projetos\\ConversorMoedas\\wwwroot\\style.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1906"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"gY5c1smku8ffg0KvZac2EWKDWV+04FyKNmUlnF1hHo4=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Wed, 29 Jan 2025 15:43:47 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-gY5c1smku8ffg0KvZac2EWKDWV+04FyKNmUlnF1hHo4="
+        }
+      ]
+    }
+  ]
+}

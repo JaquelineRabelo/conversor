@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <title>Conversor de Moedas e Notícias</title>
+    <script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1>Conversor de Moedas</h1>
+            <nav>
+                <ul>
+                    <li><a href="#news">Notícias</a></li>
+                    <li><a href="#converter">Conversor de Moedas</a></li>
+                </ul>
+            </nav>
+        </div>
+    </header>
+
+    <main>
+        <section id="news" class="news-section">
+            <h2>Últimas Notícias</h2>
+            <canvas id="exchangeRateChart" width="400" height="200"></canvas>
+        </section>
+
+        <section id="converter" class="converter-section">
+            <h2>Conversor de Moedas</h2>
+            <form id="converter-form" aria-label="Conversor de Moedas">
+                <div class="input-group">
+                    <label for="amount">Valor:</label>
+                    <input type="number" id="amount" placeholder="Digite o valor" required>
+                </div>
+                <div class="input-group">
+                    <label for="from-currency">De:</label>
+                    <select id="from-currency" required>
+                        <option value="BRL">Real Brasileiro (BRL)</option>
+                        <option value="USD">Dólar (USD)</option>
+                        <option value="EUR">Euro (EUR)</option>
+                        <option value="JPY">Iene (JPY)</option>
+                    </select>
+                </div>
+                <div class="input-group">
+                    <label for="to-currency">Para:</label>
+                    <select id="to-currency" required>
+                        <option value="USD">Dólar (USD)</option>
+                        <option value="BRL">Real Brasileiro (BRL)</option>
+                        <option value="EUR">Euro (EUR)</option>
+                        <option value="JPY">Iene (JPY)</option>
+                    </select>
+                </div>
+                <button type="submit">Converter</button>
+                <div class="result" id="result"></div>
+            </form>
+        </section>
+    </main>
+
+    <footer id="contact" class="footer">
+        <div class="container">
+            <p>© 2025 Conversor de Moedas.</p>
+        </div>
+    </footer>
+
+    <script src="inte.js"></script>
+</body>
+</html>
