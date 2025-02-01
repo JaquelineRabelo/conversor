@@ -24,10 +24,7 @@ This repository contains a simple web application for currency conversion built 
   - `DolarParaReal` (USD → BRL)
   - `EuroParaReal` (EUR → BRL)
 
-## 📜 License
-This repository is under the MIT license. Feel free to use and modify it as needed.
 
----
 
 ✉️ If you have any questions or suggestions, feel free to reach out!
 
@@ -55,10 +52,6 @@ Este repositório contém uma aplicação web simples para conversão de moedas,
   - `DolarParaReal` (USD → BRL)
   - `EuroParaReal` (EUR → BRL)
 
-## 📜 Licença
-Este repositório está sob a licença MIT. Sinta-se à vontade para usar e modificar conforme necessário.
-
----
 
 ✉️ Se tiver alguma dúvida ou sugestão, entre em contato!
 
